@@ -1,0 +1,16 @@
+.moveLeft{
+	padding-left: 18%;
+}
+
+
+.moveRight{
+	padding-left: 4%;
+}
+
+
+
+@media screen and (max-width: 430px){
+	body{
+		display: block;
+	}
+}
